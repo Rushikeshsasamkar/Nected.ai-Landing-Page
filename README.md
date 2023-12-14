@@ -1,4 +1,4 @@
-### Hosted Link:
+## Hosted Link:
     https://rushikeshsasamkar.github.io/Nected.ai-Landing-Page/
 
 ## Screenshot:
